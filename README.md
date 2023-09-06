@@ -1,2 +1,2 @@
-# uni.cs.pdc.homework
-[UNIVERSITY] Parallel and distributed computing
+# Параллельные и распределённые вычисления (очн)
+# 1. Сортировки на потоках
